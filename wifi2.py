@@ -10,7 +10,7 @@ def check(p,t):
             print(t+" is connected")         
         else:
             pass
-# The IP address range of my router is 10.0.0.0/24 (private subnet). I am chnging only the fourth octet. You can change the range as you wish 
+# The IP address range of my router is 10.0.0.0/24 (private subnet). I am changing only the fourth octet. You can change the range as you wish. 
 
 s="10.0.0."
 for i in range (1,255):
